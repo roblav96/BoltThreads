@@ -1,16 +1,16 @@
 PODS:
-  - MaterialCard (1.1.0)
+  - BoltThreads (0.1.0)
 
 DEPENDENCIES:
-  - MaterialCard (from `../`)
+  - BoltThreads (from `../`)
 
 EXTERNAL SOURCES:
-  MaterialCard:
+  BoltThreads:
     :path: ../
 
 SPEC CHECKSUMS:
-  MaterialCard: 18e0ac667318cbfba7d8f4d53532066b0a804909
+  BoltThreads: 30c51388acfb0df45b3d3d73a7301371dea72ad4
 
-PODFILE CHECKSUM: 5faf5be4e8727391c6a57fd9fb98c71138d71631
+PODFILE CHECKSUM: 864739b5b7d24a03f99229a50d22e6411767e64d
 
 COCOAPODS: 1.0.1

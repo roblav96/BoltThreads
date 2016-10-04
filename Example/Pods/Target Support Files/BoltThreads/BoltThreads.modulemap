@@ -1,0 +1,6 @@
+framework module BoltThreads {
+  umbrella header "BoltThreads-umbrella.h"
+
+  export *
+  module * { export * }
+}
