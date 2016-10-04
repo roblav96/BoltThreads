@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BoltThreads_Example' do
+  pod 'BoltThreads', :path => '../'
+
+  target 'BoltThreads_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
